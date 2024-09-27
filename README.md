@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jakobharden
-- 👀 I’m interested in construction engineering
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on django web apps
+- 👀 I’m interested in construction engineering.
+- 🌱 I’m currently working on my PhD thesis.
+- 💞️ My research is related to the estimation of material properties of cement paste at early stages.
 - 📫 How to reach me office@jakobharden.at
 
 <!---
