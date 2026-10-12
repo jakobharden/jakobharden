@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jakobharden
 - 👀 I’m interested in construction engineering.
 - 🌱 I’m currently working on my PhD thesis.
-- 💞️ My research is related to the estimation of material properties of cement paste at early stages.
+- 💞️ My research is related to the estimation of material properties of cement paste at early hydration stage.
 - 📫 How to reach me office@jakobharden.at
 
 <!---
