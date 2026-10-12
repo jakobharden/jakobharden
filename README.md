@@ -2,7 +2,7 @@
 - 👀 I’m interested in construction engineering.
 - 🌱 I’m currently working on my PhD thesis.
 - 💞️ My research is related to the estimation of material properties of cement paste at early hydration stage.
-- 📫 How to reach me office@jakobharden.at
+- 📫 How to reach me: office@jakobharden.at, jakob.harden@tugraz.at, jakob.harden@student.tugraz.at, jakob.harden@htugraz.at
 
 <!---
 jakobharden/jakobharden is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
